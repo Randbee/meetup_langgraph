@@ -1,0 +1,8 @@
+The temperature in Boston (Massachusets) is 35 ºC and the relative humidity is 50 %.
+
+The temperature in Phoenix (Arizona) is 38 ºC and the relative humidity is 30 %.
+
+The temperature in California (Sacramento) is 40 ºC and the relative humidity is 40 %.
+
+
+
